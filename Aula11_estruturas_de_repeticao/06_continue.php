@@ -1,5 +1,5 @@
 <?php
-
+//CONTINUE faz voltar ao inicio da execução (laço)
 $numberOfMessages = (int) readline('Digite o número de mensagens a serem exibidas: ');
 
 for ($count = 0; $count < $numberOfMessages; $count++) {

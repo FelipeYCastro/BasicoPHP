@@ -1,5 +1,5 @@
 <?php
-
+//while
 $value = 'vermelho';
 
 while ($value !== 'verde') {

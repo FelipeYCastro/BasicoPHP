@@ -1,5 +1,5 @@
 <?php
-
+// break usado para finalizar o for
 $numberOfMessages = (int) readline('Digite o número de mensagens a serem exibidas: ');
 
 for ($count = 0; $count < $numberOfMessages; $count++) {
