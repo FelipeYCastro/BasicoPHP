@@ -1,7 +1,6 @@
 <?php
-
-// PHP 7
-
+//só funciona no php 7
+//spacechip
 $a = 0 <=> 1; // -1
 $b = 1 <=> 1; // 0
 $c = 2 <=> 1; // 1

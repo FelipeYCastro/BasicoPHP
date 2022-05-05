@@ -1,5 +1,6 @@
 <?php
-
+//IDENTICO É REPRESENTADO POR 3 SINAIS IGUAIS(===)
+//ELE IDENTFICA O VALOR E TIPO
 $a = 1 === 1; // true
 $b = 1 === 2; // false
 
